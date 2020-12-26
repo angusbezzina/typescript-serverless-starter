@@ -1,4 +1,4 @@
-frameworkVersion: '2.16.1' #Pin framework version
+frameworkVersion: '2.16.1' #Pin framework version (may need to do this to protect particular plugin functionality)
 
 service: typescript-serverless-starteer
 
